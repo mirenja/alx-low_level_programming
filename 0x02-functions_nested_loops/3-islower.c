@@ -1,6 +1,7 @@
 #include "main.h"
 /**
-* int _islower -checks lowercase
+* int _islower - Checks lowercase
+* C: has value to be compared 
 * Return: 1 if lowercase
 * return: 0 if otherwise
 */
