@@ -12,6 +12,6 @@ void times_table(void)
 	for (i = 0; i <= 9; i++)
 	{
 	multiples = j * i;
-	}
 	_putchar(multiples + '0');
+	}
 }
