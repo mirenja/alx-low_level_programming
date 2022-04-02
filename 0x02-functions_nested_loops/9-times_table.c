@@ -15,6 +15,8 @@ void times_table(void)
 	{
 	multiples = i * j;
 	_putchar(multiples + '0');
+	_putchar(',');
+	_putchar(' ');
 	}
 	}
 }
