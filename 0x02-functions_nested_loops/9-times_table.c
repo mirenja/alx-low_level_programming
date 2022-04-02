@@ -6,11 +6,11 @@
 void times_table(void)
 {
 	int i;
-	int multiples;
+	int j = 9;
 
 	for (i = 0; i <= 9; i++)
 	{
-	multiples = i * 9;
+	multiples = j * i;
 	}
 	_putchar(multiples + '0');
 }
